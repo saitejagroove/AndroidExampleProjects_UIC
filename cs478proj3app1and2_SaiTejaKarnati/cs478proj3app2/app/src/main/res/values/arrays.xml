@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Attractions">
+        <item>The Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>The Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>UIC</item>
+        <item>The Tilt!</item>
+        <item>The Millennium Park</item>
+        <item>Chicago RiverWalk</item>
+    </string-array>
+
+    <string-array name="attwebsites">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.uic.edu/</item>
+        <item>https://360chicago.com/tilt/</item>
+        <item>https://en.wikipedia.org/wiki/Millennium_Park</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+    </string-array>
+
+    <string-array name="Restaurants">
+        <item>Lou Malnatis Restaurant</item>
+        <item>Giordanos Restaurant</item>
+        <item>The Purple Pig Restaurant</item>
+        <item>Girl and the goat</item>
+        <item>Roister Restaurant</item>
+        <item>Acadia Restaurant</item>
+    </string-array>
+
+    <string-array name="reswebsites">
+        <item>https://www.loumalnatis.com/</item>
+        <item>https://giordanos.com/</item>
+        <item>https://www.thepurplepigchicago.com/</item>
+        <item>https://girlandthegoat.com/</item>
+        <item>https://www.roisterrestaurant.com/</item>
+        <item>https://acadiachicago.com/</item>
+    </string-array>
+
+</resources>

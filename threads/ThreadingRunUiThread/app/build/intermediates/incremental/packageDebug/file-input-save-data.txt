@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Nov 01 21:46:36 CDT 2017
+2.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ea777e191d2cac3a5b7a5a1f111bba89fb61312
+2.set=ANDROID_RESOURCE
+4.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c599a85c16786407ecb34f3e1dbd17eb5a17c573/classes.dex
+5.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+0.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c599a85c16786407ecb34f3e1dbd17eb5a17c573
+3.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ea777e191d2cac3a5b7a5a1f111bba89fb61312/classes.dex
+3.set=DEX
+1.base=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/ugobuy/AndroidStudioProjects/ThreadingRunUiThread/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.set=DEX

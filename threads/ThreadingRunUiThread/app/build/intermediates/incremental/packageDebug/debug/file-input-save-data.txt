@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Oct 29 17:04:33 CDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/ugobuy/AndroidStudioProjectsJava/ThreadingRunUiThread/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1

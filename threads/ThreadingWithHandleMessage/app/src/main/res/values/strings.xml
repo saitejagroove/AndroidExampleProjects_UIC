@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Threads With handleMessage</string>
+    <string name="download_image">Download image</string>
+    <string name="toast">Toast</string>
+</resources>

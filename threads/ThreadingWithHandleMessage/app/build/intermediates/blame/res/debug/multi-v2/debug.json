@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,177",
+                        "endColumns": "63,57,39",
+                        "endOffsets": "114,172,212"
+                    }
+                }
+            ]
+        }
+    ]
+}

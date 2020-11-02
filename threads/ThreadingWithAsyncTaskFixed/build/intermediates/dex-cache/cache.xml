@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f54f0895502d583a2095eb22f9010ac63c4359b6">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afee74471bc141f88c747cd5165d63c5d3ead565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37f1e134af5f52f0f7bdc0e69f390728b3ba990c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60268dc737a82f0600061742ea6fae1c242219fa">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b139feb00807935340ce91ac41c8aa586f4c93a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43dc5453fb2e8541cc1338746c993758cea3510a/classes.dex" />
+    </item>
+
+</items>

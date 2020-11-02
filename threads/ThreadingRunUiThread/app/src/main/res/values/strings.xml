@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Threads Run UI Thread</string>
+    <string name="act_name">Threads on Run UI Thread</string>
+    <string name="download_image">Download</string>
+    <string name="toast">Toast</string>
+</resources>

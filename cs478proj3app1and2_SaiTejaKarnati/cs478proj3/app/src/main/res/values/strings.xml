@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cs478proj3</string>
+    <string name="permdesc_deadlyActivity">dangerousActivitydesc</string>
+    <string name="permlab_deadlyActivity">dangerousActivitylabel</string>
+
+</resources>

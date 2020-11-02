@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Nov 06 18:28:43 CST 2017
+2.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_929255af2c0df9c80efd1df08cf462058e9db73b
+5.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_
+2.set=DEX
+4.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbf105126e5eea15d4683835f88c7632f45dff61/classes.dex
+5.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_929255af2c0df9c80efd1df08cf462058e9db73b/classes.dex
+0.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbf105126e5eea15d4683835f88c7632f45dff61
+3.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=DEX

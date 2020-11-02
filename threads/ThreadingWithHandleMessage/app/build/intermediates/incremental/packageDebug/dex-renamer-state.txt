@@ -1,0 +1,7 @@
+#Mon Nov 06 18:28:43 CST 2017
+base.0=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_929255af2c0df9c80efd1df08cf462058e9db73b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbf105126e5eea15d4683835f88c7632f45dff61/classes.dex
+base.1=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbf105126e5eea15d4683835f88c7632f45dff61
+file.0=/Users/ugobuy/AndroidStudioProjects/ThreadingWithHandleMessage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_929255af2c0df9c80efd1df08cf462058e9db73b/classes.dex

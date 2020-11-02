@@ -1,0 +1,10 @@
+<resources>
+<string-array
+    name="titles">
+    <item>Bella Ciao</item>
+    <item>The Doors - Break on through</item>
+    <item>Mc Fiori - Bum Bum Tam Tam</item>
+    <item>Led Zeppelin - Immigrant Song</item>
+    <item>Black Sabbath - Paranoid</item>
+</string-array>
+</resources>

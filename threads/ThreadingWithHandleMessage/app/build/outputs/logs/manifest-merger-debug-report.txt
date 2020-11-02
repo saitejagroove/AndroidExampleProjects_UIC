@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:3:7-57
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:7:5-9:23
+	android:name
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:8:9-51
+application
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:11:5-20:19
+	android:label
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:11:18-50
+	android:icon
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:12:9-45
+activity#edu.uic.cs478.ThreadingWithHandleMessage.HandleMessageActivity
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:label
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:13:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/AndroidStudioProjectsJava/ThreadingWithHandleMessage/app/src/main/AndroidManifest.xml

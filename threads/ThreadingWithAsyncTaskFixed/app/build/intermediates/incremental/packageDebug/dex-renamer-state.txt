@@ -1,0 +1,7 @@
+#Sun Nov 05 13:55:09 CST 2017
+base.0=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37f1e134af5f52f0f7bdc0e69f390728b3ba990c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afee74471bc141f88c747cd5165d63c5d3ead565/classes.dex
+base.1=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afee74471bc141f88c747cd5165d63c5d3ead565
+file.0=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37f1e134af5f52f0f7bdc0e69f390728b3ba990c/classes.dex

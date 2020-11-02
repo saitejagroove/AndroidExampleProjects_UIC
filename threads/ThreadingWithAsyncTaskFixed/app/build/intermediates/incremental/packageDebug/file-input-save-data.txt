@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Nov 05 13:55:10 CST 2017
+2.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afee74471bc141f88c747cd5165d63c5d3ead565
+5.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=DEX
+4.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37f1e134af5f52f0f7bdc0e69f390728b3ba990c/classes.dex
+5.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afee74471bc141f88c747cd5165d63c5d3ead565/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37f1e134af5f52f0f7bdc0e69f390728b3ba990c
+3.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/ugobuy/AndroidStudioProjects/ThreadingWithAsyncTaskFixed/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/main.xml
+0.set=DEX

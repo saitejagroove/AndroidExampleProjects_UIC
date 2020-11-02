@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cs478proj3app2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:4:5-83
+11-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:6:5-31:19
+14        android:allowBackup="true"
+14-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.1] C:\Users\SAITEJA-WORKMACHINE\.gradle\caches\transforms-2\files-2.1\8f8ab13dc8f4e84e14a8bb3d9ac92bc4\core-1.0.1\AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:12:9-40
+23        <receiver
+23-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:13:9-20:20
+24            android:name="com.example.cs478proj3app2.MyReceiver"
+24-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:14:13-39
+25            android:enabled="true"
+25-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:15:13-35
+26            android:exported="true" >
+26-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:16:13-36
+27            <intent-filter>
+27-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:17:13-19:29
+28                <action android:name="com.cs478.app2" />
+28-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:18:17-57
+28-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:18:25-54
+29            </intent-filter>
+30        </receiver>
+31
+32        <activity android:name="com.example.cs478proj3app2.Main2Activity" />
+32-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:22:9-60
+32-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:22:19-48
+33        <activity android:name="com.example.cs478proj3app2.MainActivity" >
+33-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:24:9-30:20
+33-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:24:19-47
+34            <intent-filter>
+34-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:26:17-69
+35-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:28:17-77
+37-->C:\Users\SAITEJA-WORKMACHINE\AndroidStudioProjects\cs478proj3app2\app\src\main\AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
